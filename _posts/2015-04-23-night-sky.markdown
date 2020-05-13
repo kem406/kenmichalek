@@ -6,5 +6,6 @@ avatar: "img/authors/wferr.png"
 image: "img/d2.png"
 date:   2015-04-23 12:12:12
 ---
+.
 
 This is my final project for MATH E-23C, a course at the Harvard Extension School. It is a "bot" that takes in a dataset in the form of a .csv file and performs various analyses on the data, such as distribution fitting and permutation tests. You can read more [here](https://kem406.github.io/MATH-E23C/) (WIP).
