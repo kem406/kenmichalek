@@ -6,7 +6,7 @@ avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date:   2015-04-23 12:12:12
 ---
- . 
+ __________________________ 
 
 This is a robotic arm I built for PHYS S-12 (Intro to Digital Fabrication) at the Harvard Summer School. You can read more [here](https://kem406.github.io/PHYS-S12/12/).
 
