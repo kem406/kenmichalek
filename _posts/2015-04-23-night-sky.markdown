@@ -1,5 +1,5 @@
 ---
-title:  "math23bot"
+title:  "math23c_bot"
 subtitle: "Automated Statistics Program"
 author: " "
 avatar: "img/authors/wferr.png"
