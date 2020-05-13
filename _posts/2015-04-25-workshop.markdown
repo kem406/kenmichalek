@@ -7,4 +7,20 @@ image: "img/f.jpg"
 date:   2015-04-25 12:12:12
 ---
 
-This is a robotic arm I built for PHYSICS S-12 (Intro to Digital Fabrication) at the Harvard Summer School. You can read more [here](https://kem406.github.io/PHYS-S12/12/).
+This is a robotic arm I built for PHYS S-12 (Intro to Digital Fabrication) at the Harvard Summer School. You can read more [here](https://kem406.github.io/PHYS-S12/12/).
+
+I am also continuing to update the robot. For example, I am designing a new circuit board for the robot's controls as my final project for ENSC E-123 (Digital Circuit Design), which you can read about [here](https://kem406.github.io/ENSC-E123/).
+
+<iframe src="https://www.youtube.com/embed/t5dK5Kn9nus"
+    width="560"
+    height="315"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+<iframe src="https://www.youtube.com/embed/bvjz6gq0DTw"
+    width="560"
+    height="315"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
