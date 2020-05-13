@@ -6,7 +6,7 @@ avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
 date:   2015-04-23 12:12:12
 ---
- __________________________ 
+  .  
 
 This is a drawing robot originally created by Rob Hart, which I have adopted as my own pet project that I continue to improve and update. It was created as a demo for PHYSCI-70 (Intro to Digital Fabrication), a course at the Harvard College. You can read more [here](https://kem406.github.io/hbot/).
 
