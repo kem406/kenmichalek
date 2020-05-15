@@ -4,7 +4,7 @@ subtitle: "With Soft-Robotic Gripper"
 author: "  "
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2015-04-23 12:12:12
+date:   2019-08-07 12:12:12
 ---
  [View on Github](https://kem406.github.io/PHYS-S12/12/)
 
