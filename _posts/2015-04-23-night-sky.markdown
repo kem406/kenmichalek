@@ -1,6 +1,6 @@
 ---
-title:  "math23c_bot"
-subtitle: "Automated Statistics Program"
+title:  "math23c_bot()"
+subtitle: "Statistics and Machine Learning in RStudio"
 author: " "
 avatar: "img/authors/wferr.png"
 image: "img/d2.png"
@@ -8,4 +8,4 @@ date:   2020-05-14 12:12:12
 ---
 [View on Github](https://kem406.github.io/MATH-E23C)
 
-This is my final project for MATH E-23C, a course at the Harvard Extension School. It is a "bot" that takes in a dataset in the form of a .csv file and performs various analyses on the data, such as distribution fitting and permutation tests. You can read more [here](https://kem406.github.io/MATH-E23C/) (WIP).
+This was my final project for MATH E-23C, a course at the Harvard Extension School. It was my attempt at artificial intelligence that could handle basic data science tasks, in the form of a compact R function that could take in a dataset. The dataset I used for this project was the forestfires.csv set from the UCI Machine Learning Repository, which I gave to the math23c_bot() function in order to predict where forest fires are most likely to occur in a 9x9 grid of the Montesinho Natural Park in Portugal. You can read more [here](https://kem406.github.io/MATH-E23C/).
