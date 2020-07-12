@@ -9,3 +9,10 @@ date:   2020-05-14 12:12:12
 [View on Github](https://kem406.github.io/MATH-E23C)
 
 This was my final project for MATH E-23C, a course at the Harvard Extension School. It was my attempt at artificial intelligence that could handle basic data science tasks, in the form of a compact R function that could take in a dataset as a parameter. The dataset I used for this project was the forestfires.csv file from the UCI Machine Learning Repository, which I gave to the math23c_bot() function in order to predict where forest fires are most likely to occur in a 9x9 grid of the Montesinho Natural Park in Portugal. You can read more [here](https://kem406.github.io/MATH-E23C/).
+
+<iframe src="https://www.youtube.com/watch?v=I4kC7QLCxvY"
+    width="560"
+    height="315"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
