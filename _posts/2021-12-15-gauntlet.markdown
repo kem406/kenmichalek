@@ -1,5 +1,5 @@
 ---
-title:  "Wearable Robotic Utility Gauntlet"
+title:  "Robotic Gauntlet"
 subtitle: "  "
 author: "  "
 avatar: "img/authors/wferr.png"
