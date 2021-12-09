@@ -3,7 +3,7 @@ title:  "Robotic Gauntlet"
 subtitle: "Wearable Modular Toolkit"
 author: "  "
 avatar: "img/authors/wferr.png"
-image: "img/gauntlet0.jpg"
+image: "img/gauntlet0.png"
 date:   2020-12-15 12:12:12
 ---
 Scroll down for videos.
