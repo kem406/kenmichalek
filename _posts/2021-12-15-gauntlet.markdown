@@ -10,6 +10,10 @@ date:   2021-12-15 12:12:12
 
 This robot was envisioned by Si Chiang Wu as a helpful tool during the COVID-19 pandemic, and served as my team's final project for ENG-SCI 51: Computer-Aided Machine Design. Our team consisted of Francisco Marquez, Si Chiang Wu, and myself. The idea behind the robot is that it would extend a hook-like tool that can be used to open and close doors so the user does not have to make contact with the door handle with their bare hands. I came up with the idea that the end tool would utilize a mechanism that allows the user to use their fingers to pull on a spring-loaded lever that simultaneously rotates the hook out of hits protective shell and into position and also directly transfers the user's grip strength to the hook tool so that the user is pulling the door open, not the robot itself (otherwise, the purpose of the robot would be silly; there already exist keychains that accomplish the same thing without a bulky robot strapped to your arm. My design gave the robot the newly-defined purpose of placing tools into the user's hand on demand).
 
+[<img src="img/cisco1.gif" alt="Gauntlet 1" style="height: 200px; max-width: 48%">](https://kenmichalek.com/img/cisco1.gif)
+
+[<img src="img/cisco2.gif" alt="Gauntlet 2" style="height: 200px; max-width: 48%">](https://kenmichalek.com/img/cisco2.gif)
+
 [<img src="cisco1.gif" alt="Gauntlet 1">](https://kenmichalek.com/img/cisco1.gif)
 
 [<img src="cisco2.gif" alt="Gauntlet 2">](https://kenmichalek.com/img/cisco1.gif)
