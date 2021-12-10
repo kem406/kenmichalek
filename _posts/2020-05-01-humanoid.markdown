@@ -1,0 +1,24 @@
+---
+title:  "Prismatic Mannequin"
+subtitle: "Chuck Hoberman-Style Humanoid Robot"
+author: "  "
+avatar: "img/authors/wferr.png"
+image: "img/humanoid.png"
+date:   2020-05-01 12:12:12
+---
+Scroll down for video.
+
+This cardboard-like robot was inspired by one of Chuck Hoberman's origami-like humanoid puppets, and served as my final project for his Informal Robotics course, along with my partner Yanxi Lu.
+
+Our humanoid is a culmination of several iterations experimenting with legged movement using prismatic structures. I wanted to explore the idea of adding powered actuation to Hoberman's prismatic humanoid concept. Unfortunately, due to the class taking place during the COVID-19 pandemic, we were limited to only using geometric shapes given in the provided modular kit and had no means of laser-cutting our own shapes, and we were also limited to using a standard gearbox as opposed to a more precisely-controlled stepper motor. As a result, we had to get creative in order to precisely control what angles the gearbox turned the two cranks that moved the robot's arms and legs, by using a provided remote control kit to manually calibrate the positions of the crankshafts before use.
+
+<iframe src="https://www.youtube.com/embed/Q-cYj1YLFco"
+    width="560"
+    height="315"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+Though the robot succeeded in standing upright and shuffling around, it still had a long way to go before I could be satisfied in considering it a novel, walking, humanoid robot. For instance, as you can see in the video, the movement of the robot's legs don't really contribute that much to its "walking"—it's really the swinging arms that provide most of the momentum leading to the net forward movement, while the legs just kind of awkwardly twitch as it slowly inches ahead.
+
+Future iterations of the robot would utilize numerous improvements, including (but not limited to) custom laser-cut shapes, stepper motors, and "roller skates" instead of cardboard skis for feet (with the wheels turning "one-way," like many shuffling bipedal toys that exist). Some have also jokingly suggested that I scale up the robot to be the size of a real human.  
