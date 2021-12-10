@@ -19,6 +19,6 @@ Our humanoid is a culmination of several iterations experimenting with legged mo
     allowfullscreen>
 </iframe>
 
-Though the robot succeeded in standing upright and shuffling around, it still had a long way to go before I could be satisfied in considering it a novel, walking, humanoid robot. For instance, as you can see in the video, the movement of the robot's legs don't really contribute that much to its "walking"—it's really the swinging arms that provide most of the momentum leading to the net forward movement, while the legs just kind of awkwardly twitch as it slowly inches ahead.
+Though the robot succeeded in standing upright and shuffling around, it still has a long way to go before I am satisfied in considering it a novel, walking, humanoid robot. For instance, as you can see in the video, the movement of the robot's legs don't really contribute that much to its "walking"—it's really the swinging arms that provide most of the momentum leading to the net forward movement, while the legs just kind of awkwardly twitch as it slowly inches ahead.
 
 Future iterations of the robot would utilize numerous improvements, including (but not limited to) custom laser-cut shapes, stepper motors, and "roller skates" instead of cardboard skis for feet (with the wheels turning "one-way," like many shuffling bipedal toys that exist). Some have also jokingly suggested that I scale up the robot to be the size of a real human.  
