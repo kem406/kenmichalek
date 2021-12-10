@@ -15,3 +15,5 @@ This robot was envisioned by Si Chiang Wu as a helpful tool during the COVID-19 
 [<img src="img/cisco2.gif" alt="Gauntlet 2" style="height: 200px; max-width: 48%">](https://kenmichalek.com/img/cisco2.gif)
 
 Theoretically, one could switch out the spring-loaded hook with other end tools. We designed a few that could conceivably serve other purposes (such as a "button pusher"), though none of these proved to be particularly useful.
+
+Videos by Francisco Marquez.
